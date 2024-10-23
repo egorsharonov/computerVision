@@ -5,6 +5,7 @@ import os
 
 class object_recognizer():
   def __init__(self, video_path, result_path):
+    self.mark_color = None
     self.video_path = video_path
     self.result_path = result_path
 
