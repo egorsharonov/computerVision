@@ -1,0 +1,4 @@
+Model,Original,Rotate 45,Rotate 90,Gaussian Noise
+OpenFace,0.25,0.0,0.0,0.0
+DeepFace,0.0,0.0,0.0,0.0
+DeepID,0.25,0.0,0.0,0.0
